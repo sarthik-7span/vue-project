@@ -3,7 +3,7 @@
     <div class="container">
       <div class="header">
         <div class="header__logo" onclick="hello()">
-          <img src="../static/img/logo.png" alt="logo">
+          <img src="../static/img/logo.png" alt="logo ">
         </div>
         <div class="header__action">
           <div class="header__buttons">
