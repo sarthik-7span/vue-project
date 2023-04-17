@@ -1,3 +1,11 @@
 .header{
-    @apply flex items-center justify-between
+    @apply flex items-center justify-between;
+
+    &__action{
+        @apply flex items-center justify-between
+    }
+}
+
+.container{
+    @apply mx-auto
 }
